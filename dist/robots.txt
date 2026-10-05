@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kore-dubailand.com/sitemap.xml
