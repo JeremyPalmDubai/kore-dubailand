@@ -1,0 +1,1 @@
+window.KORE_CONFIG = {"tallyUrl": "https://tally.so/embed/810Zjr", "publicOrigin": "https://kore-dubailand.com"};
